@@ -20,3 +20,11 @@ Option 2: Open in VSCode
  3. Run the code by entering the following in the terminal:
     - `python .\hangman.py `
   
+# Gameplay
+
+Gameplay is exactly the same as the classic Hangman game.
+
+- After running the code, an input box will show up in the terminal where you can type in your guess.
+- Upon getting it right, one of the blanks in the word with be filled.
+- If the guess is wrong, then it will be added in the section labeled "missed letters."
+- After six incorrect gueses, the word will be revealed and you will be given the option to restart another round or stop playing the game.
