@@ -4,7 +4,7 @@ A rendition of the classic word-guessing game; hangman.
 
 Created as a mini project to further develop Python skills using loops.
 
-<img width="300" height="219" alt="image of the file run" src="https://github.com/user-attachments/assets/d906a7ec-bff0-403b-900e-5a3315fe7fcd" />
+<img width="400" height="293" alt="image of the file run" src="https://github.com/user-attachments/assets/d906a7ec-bff0-403b-900e-5a3315fe7fcd" />
 
 # How to Run?
 
